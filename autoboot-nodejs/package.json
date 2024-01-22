@@ -1,0 +1,11 @@
+{
+  "name": "autoboot-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appExample.js",
+  "scripts": {
+    "start": "node appExample.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
